@@ -2,10 +2,10 @@ export default {
   /**
    * basic Information
    */
-  title: `jeong-min.com`,
-  description: `개발자 단민`,
+  title: `jee.com`,
+  description: `프론트엔드 개발자 jee`,
   language: `ko`,
-  siteUrl: `https://jeong-min.com/`,
+  siteUrl: `https://puringles.com/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
 
   /**
@@ -13,7 +13,8 @@ export default {
    */
   comments: {
     utterances: {
-      repo: ``, //`danmin20/danmin-gatsby-blog`,
+      repo: ``, //`puringles-blog
+`,
     },
   },
 
@@ -21,22 +22,22 @@ export default {
    * introduce yourself
    */
   author: {
-    name: `이정민`,
-    nickname: `단민`,
+    name: `김현지`,
+    nickname: `jee`,
     stack: ['Frontend', 'React', 'Typescript'],
     bio: {
-      email: `ljm991108@gmail.com`,
-      residence: 'Seoul, South Korea',
-      bachelorDegree: 'Kyunghee Univ. Computer Engineering (2018.03-2022.02)',
+      email: `ysk30430@naver.com`,
+      residence: 'Buchoen, South Korea',
+     
     },
     social: {
-      github: `https://github.com/danmin20`,
-      linkedIn: `https://www.linkedin.com/in/jeonming-lee/`,
-      resume: `https://www.figma.com/file/dtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1`,
+      github: `https://github.com/kimhyunjee`,
+      // linkedIn: `https://www.linkedin.com/`,
+      // resume: ``,
     },
     dropdown: {
-      tistory: 'https://danminblog.tistory.com/',
-      velog: 'https://velog.io/@danmin20',
+      tistory: 'https:/https://puringles.tistory.com/',
+    
     },
   },
 
@@ -61,27 +62,27 @@ export default {
     {
       category: 'Career',
       date: '2022.01.04 - NOW',
-      en: 'A Corp.',
-      kr: 'A 회사',
-      info: 'A 팀',
-      link: '',
+      en: 'HicareENt',
+      kr: '하이케어넷',
+      info: 'frontEnd developer',
+      // link: '',
     },
-    {
-      category: 'Career',
-      date: '2021.01.04 - 2022.01.04',
-      en: 'B Corp.',
-      kr: 'B 회사',
-      info: 'B 팀',
-      link: '',
-    },
-    {
-      category: 'Activity',
-      date: '2023.07 - NOW',
-      en: 'Community',
-      kr: '커뮤니티',
-      info: 'IT 커뮤니티',
-      link: '',
-    },
+    // {
+    //   category: 'Career',
+    //   date: '2021.01.04 - 2022.01.04',
+    //   en: 'B Corp.',
+    //   kr: 'B 회사',
+    //   info: 'B 팀',
+    //   link: '',
+    // },
+    // {
+    //   category: 'Activity',
+    //   date: '2023.07 - NOW',
+    //   en: 'Community',
+    //   kr: '커뮤니티',
+    //   info: 'IT 커뮤니티',
+    //   link: '',
+    // },
   ],
 
   /**
